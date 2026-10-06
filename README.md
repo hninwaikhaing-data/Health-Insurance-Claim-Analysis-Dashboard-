@@ -365,24 +365,23 @@ health-insurance-claims-analysis/
 
 ### Executive Claims Overview
 
-![Executive Claims Overview](images/executive_claims_overview.png)
+![Executive Claims Overview](images/executive%20claim%20overview.png)
 
 ### CPT & ICD Cost Drivers
 
-![CPT & ICD Cost Drivers](images/cpt_icd_cost_drivers.png)
+![CPT & ICD Cost Drivers](images/cpt_icd%20cost%20drivers.png)
 
 ### Member & Payment Analysis
 
-![Member & Payment Analysis](images/member_payment_analysis.png)
+![Member & Payment Analysis](images/member_payment%20analysis.png)
 
 ### Key Insights
 
-![Key Insights](images/key_insights.png)
+![Key Insights](images/key%20insight.png)
 
 ### Business Recommendations
 
-![Business Recommendations](images/business_recommendations.png)
-
+![Business Recommendations](images/business%20recommendation.png)
 ---
 
 ## Conclusion
