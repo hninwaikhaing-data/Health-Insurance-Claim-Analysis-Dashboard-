@@ -365,7 +365,7 @@ health-insurance-claims-analysis/
 
 ### Executive Claims Overview
 
-![Executive Claims Overview](images/executive_claims_overview.png)
+![Executive Claims Overview](images/executive_claim_overview.png)
 
 ### CPT & ICD Cost Drivers
 
@@ -377,11 +377,11 @@ health-insurance-claims-analysis/
 
 ### Key Insights
 
-![Key Insights](images/key_insights.png)
+![Key Insights](images/key_insight.png)
 
 ### Business Recommendations
 
-![Business Recommendations](images/recommendations.png)
+![Business Recommendations](images/business recommendation.png)
 
 ---
 
